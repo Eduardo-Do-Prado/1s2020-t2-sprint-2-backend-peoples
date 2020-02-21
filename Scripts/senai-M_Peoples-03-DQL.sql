@@ -1,0 +1,1 @@
+SELECT IdFuncionario, Nome, Sobrenome FROM Funcionario
